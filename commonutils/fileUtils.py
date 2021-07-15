@@ -10,7 +10,7 @@ import json
 import logging
 import shutil
 from _datetime import datetime
-from commonUtils.constants import _Const
+from commonutils.constants import _Const
 
 
 class FileUtils:

@@ -5,7 +5,7 @@ from driverfactory.driverfactory import DriverFactory
 from selenium.webdriver.support.ui import WebDriverWait as wait
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
-from commonUtils.fileUtils import FileUtils
+from commonutils.fileUtils import FileUtils
 
 
 class LoginPage:

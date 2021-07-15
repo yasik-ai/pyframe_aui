@@ -5,7 +5,7 @@ import sys
 import logging
 import time
 from driverfactory.driverfactory import DriverFactory
-from commonUtils.fileUtils import FileUtils
+from commonutils.fileUtils import FileUtils
 
 
 @fixture

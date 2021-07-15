@@ -1,5 +1,5 @@
 from selenium import webdriver
-from commonUtils.constants import _Const as CONST
+from commonutils.constants import _Const as CONST
 
 
 class DriverFactory:

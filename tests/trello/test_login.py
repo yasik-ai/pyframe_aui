@@ -4,7 +4,7 @@ from selenium import webdriver
 import selenium
 import time
 import allure
-from pageObjects.login_page_trello import LoginPage
+from pageobjects.login_page_trello import LoginPage
 
 
 class Tests_Login_001:
