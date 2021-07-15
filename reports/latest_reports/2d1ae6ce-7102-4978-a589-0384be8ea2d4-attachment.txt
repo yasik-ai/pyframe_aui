@@ -1,0 +1,4 @@
+[32mINFO    [0m root:test_login.py:32 Launching URL
+[32mINFO    [0m root:login_PageRO.py:23 Method Name LoginPage: Entering User Name
+[32mINFO    [0m root:test_login.py:36 Setting up Username
+[32mINFO    [0m root:login_PageRO.py:28 Method Name LoginPage: Clicking on login with Atlassion account button
