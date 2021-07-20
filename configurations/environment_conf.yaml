@@ -1,7 +1,7 @@
 environment:
   browser: 'chrome'
   base_url: 'https://192.168.8.108:8443/PanacesGUI/'
-  ro_username:  'drmadmin'
+  ro_username: 'drmadmin'
   ro_password: 'Orchestration123!'
 handlers:
   console:

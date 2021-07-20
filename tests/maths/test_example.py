@@ -1,6 +1,7 @@
 """ Create All Your Tests Here """
 import pytest
 from pytest import mark
+from commonutils.fileUtils import FileUtils
 
 @mark.smokeClass
 class Tests_examples:
@@ -21,3 +22,5 @@ class Tests_examples:
 
     def test_files(self):
      assert True
+
+

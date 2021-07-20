@@ -1,0 +1,12 @@
+1626691225638	geckodriver	INFO	Listening on 127.0.0.1:61255
+1626691226639	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/q6/2q03hysj36n6zdf_dc5352hh0000gn/T/rust_mozprofileygUF9Q"
+1626691227873	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/q6/2q03hysj36n6zdf_dc5352hh0000gn/T/rust_mozprofileygUF9Q/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1626691232378	Marionette	INFO	Listening on port 61269
+1626691232492	Marionette	WARN	TLS certificate errors will be ignored for this session
+1626691236543	Marionette	INFO	Stopped listening on port 61269
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6A0023,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
